@@ -1,0 +1,175 @@
+.text-color{
+    color: #f2f3f3;
+    margin: 0 10px;
+
+}
+.navbar-brand{
+  font-size: 1.5rem;
+}
+.fluid-container{
+   /* background-color: #323232; */
+   /* background-color: black; */
+   background-color: #252525;
+   padding: 0 12%;
+}
+.nav-color{
+   /* background-color: #323232; */
+   /* background-color: black; */
+   background-color: #252525;
+   padding: 1% 12%;
+}
+
+.text-color:hover{
+    color: #AFAFAF;
+}
+#logo{
+  border: 2px solid;
+  border-radius: 50%;
+  padding: 3% 3%;
+  margin-bottom: 5px;
+
+}
+.introduction-content{
+  background-color: #35495e;
+  text-align: center;
+  color: white;
+  padding: 0% 12%;
+  padding-top: 3%;
+  line-height: 1.5;
+  margin-right: 0;
+
+}
+
+
+h1{
+  font-family: 'Ubuntu', sans-serif;
+  padding-top: 15%;
+  font-size: 3rem;
+  font-weight: bold;
+
+
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1rem;
+  margin:2% 0;
+}
+#introduction-content-image{
+  border-radius: 50%;
+  margin-top: 4%;
+  width: 25%;
+  margin-bottom: 5%;
+
+
+}
+@media (max-width:800px) {
+  #introduction-content-image{
+    position: relative;
+    top: -10px;
+  }
+}
+.about-content{
+  margin: 1% 12%;
+  font-family: 'Ubuntu', sans-serif;
+  text-align: center;
+  margin-bottom: 0;
+  padding: 2% 0;
+
+}
+#frank-image{
+  border-radius: 50%;
+  margin: 2% 2%;
+}
+h3{
+  font-family: 'Ubuntu', sans-serif;
+}
+
+h4{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1rem;
+    line-height: 1.5;
+
+}
+
+.about-text{
+  margin: 3% 0;
+}
+.about-icon{
+  font-size: 80px;
+}
+
+@media (max-width:767px) {
+  .university{
+    position: relative;
+    top: -200px;
+  }
+  .university-text{
+    position: relative;
+    top: 180px;
+    margin-bottom: 50px;
+
+  }
+}
+@media (max-width:669px) {
+  .university{
+    position: relative;
+    top: -250px;
+  }
+  .university-text{
+    position: relative;
+    top: 180px;
+    margin-bottom: 50px;
+
+  }
+}
+#skills{
+  background-color: #35495e;
+  padding: 3% 12%;
+  text-align: center;
+  color: white;
+}
+.skills-top{
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 2.5rem;
+  margin-bottom: 3%;
+  font-weight: bold;
+  color: #FFFF00;
+
+
+}
+.skills-middle{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-bottom: 3%;
+  color: #C0C040;
+}
+.skills-middle-content{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1rem;
+  text-align: center;
+  color: white;
+}
+.footer-element{
+  /* background-color:black;
+   */
+   background-color: #252525;
+  padding: 2% 12%;
+  text-align: center;
+  color: white;
+}
+.footer-style{
+  color: white;
+  padding: 0 3%;
+
+}
+.footer-style:hover{
+    color: #AFAFAF;
+      text-decoration: none;
+}
+.skill-logo{
+  color: #FF4000;
+}
+.skill-logo:hover{
+  color: #c70d3a;
+}
